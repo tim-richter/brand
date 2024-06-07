@@ -23,7 +23,8 @@ module.exports = {
     ].map(require.resolve),
   ],
   parserOptions: {
-    project,
+    project: ['./packages/*/tsconfig.json'],
+    tsconfigRootDir: __dirname,
   },
   plugins: ["only-warn"],
   globals: {

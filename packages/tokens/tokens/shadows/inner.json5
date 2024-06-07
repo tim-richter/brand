@@ -1,0 +1,21 @@
+{
+  shadows: {
+    inner: {
+      "0": {
+        value: 'rgba(37, 38, 39, 0.1) 0px 0px 0px 1px inset'
+      },
+      "1": {
+        value: 'rgba(37, 38, 39, 0.1) 0px 1px 2px 0px inset, rgb(255, 255, 255) 0px -0.5px 0px 0px inset, rgba(0, 0, 0, 0.067) 0px 0.5px 0px 0px inset',
+      },
+      "2": {
+        value: 'rgba(37, 38, 39, 0.1) 0px 1px 4px 0px inset, rgb(255, 255, 255) 0px -0.5px 0px 0px inset, rgba(0, 0, 0, 0.067) 0px 0.5px 0px 0px inset',
+      },
+      "3": {
+        value: 'rgba(37, 38, 39, 0.1) 0px 2px 8px 0px inset, rgb(255, 255, 255) 0px -0.5px 0px 0px inset, rgba(0, 0, 0, 0.067) 0px 0.5px 0px 0px inset',
+      },
+      "4": {
+        value: 'rgba(37, 38, 39, 0.1) 0px 2px 14px 0px inset, rgb(255, 255, 255) 0px -0.5px 0px 0px inset, rgba(0, 0, 0, 0.067) 0px 0.5px 0px 0px inset',
+      },
+    }, 
+  },
+}

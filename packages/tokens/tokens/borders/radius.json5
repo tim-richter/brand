@@ -1,0 +1,24 @@
+{
+  borders: {
+    radius: {
+      "1": {
+        value: '2px'
+      },
+      "2": {
+        value: '5px'
+      },
+      "3": {
+        value: '16px'
+      },
+      "4": {
+        value: '32px'
+      },
+      "5": {
+        value: '64px'
+      },
+      "6": {
+        value: '100000px'
+      }
+    }
+  }
+}

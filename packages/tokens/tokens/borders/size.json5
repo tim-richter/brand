@@ -1,0 +1,18 @@
+{
+  borders: {
+    size: {
+      "1": {
+        value: '1px'
+      },
+      "2": {
+        value: '2px'
+      },
+      "3": {
+        value: '5px'
+      },
+      "4": {
+        value: '10px'
+      }
+    }
+  }
+}

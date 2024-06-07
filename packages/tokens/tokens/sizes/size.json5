@@ -1,0 +1,49 @@
+{
+  sizes: {
+    "0": {
+      value: '0px'
+    },
+    "1": {
+      value: '4px'
+    },
+    "2": {
+      value: '8px'
+    },
+    "3": {
+      value: '16px'
+    },
+    "4": {
+      value: '20px'
+    },
+    "5": {
+      value: '24px'
+    },
+    "6": {
+      value: '28px'
+    },
+    "7": {
+      value: '32px'
+    },
+    "8": {
+      value: '48px'
+    },
+    "9": {
+      value: '64px'
+    },
+    "10": {
+      value: '80px'
+    },
+    "11": {
+      value: '120px'
+    },
+    "12": {
+      value: '160px'
+    },
+    "13": {
+      value: '240px'
+    },
+    "14": {
+      value: '320px'
+    }
+  }
+}

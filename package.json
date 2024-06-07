@@ -11,8 +11,8 @@
     "release": "turbo run build --filter=docs^... && changeset publish"
   },
   "devDependencies": {
-    "@changesets/cli": "^2.27.1",
-    "prettier": "^3.2.5",
+    "@changesets/cli": "2.27.2",
+    "prettier": "3.2.5",
     "turbo": "latest"
   },
   "packageManager": "pnpm@8.9.0"

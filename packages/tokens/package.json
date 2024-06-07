@@ -1,0 +1,21 @@
+{
+  "name": "@timrichter/brand-tokens",
+  "version": "0.0.0",
+  "main": "build/js/tokens.ts",
+  "module": "build/js/tokens.ts",
+  "types": "build/js/tokens.ts",
+  "files": [
+    "build"
+  ],
+  "sideEffects": false,
+  "license": "MIT",
+  "scripts": {
+    "build": "style-dictionary build"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "style-dictionary": "3.9.2"
+  }
+}
