@@ -1,0 +1,36 @@
+{
+  typography: {
+    lineheight: {
+      "0": {
+        value: '16px'
+      },
+      "1": {
+        value: '20px'
+      },
+      "2": {
+        value: '24px'
+      },
+      "3": {
+        value: '26px'
+      },
+      "4": {
+        value: '32px'
+      },
+      "5": {
+        value: '38px'
+      },
+      "6": {
+        value: '44px'
+      },
+      "7": {
+        value: '52px'
+      },
+      "8": {
+        value: '60px'
+      },
+      "9": {
+        value: '64px'
+      },
+    }
+  }
+}

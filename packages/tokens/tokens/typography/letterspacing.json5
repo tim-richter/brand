@@ -1,0 +1,24 @@
+{
+  typography: {
+    letterspacing: {
+      "0": {
+        value: '-.05em'
+      },
+      "1": {
+        value: '0.050em'
+      },
+      "2": {
+        value: '.150em'
+      },
+      "3": {
+        value: '.500em'
+      },
+      "4": {
+        value: '.750em'
+      },
+      "5": {
+        value: '1em'
+      }
+    }
+  }
+}

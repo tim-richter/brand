@@ -1,0 +1,21 @@
+{
+  typography: {
+    fontweight: {
+      "1": {
+        value: 200
+      },
+      "2": {
+        value: 400
+      },
+      "3": {
+        value: 600
+      },
+      "4": {
+        value: 800
+      },
+      "5": {
+        value: 900
+      }
+    }
+  }
+}

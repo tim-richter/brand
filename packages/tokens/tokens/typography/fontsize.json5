@@ -1,0 +1,36 @@
+{
+  typography: {
+    fontsize: {
+      "0": {
+        value: '12px'
+      },
+      "1": {
+        value: '14px'
+      },
+      "2": {
+        value: '16px'
+      },
+      "3": {
+        value: '20px'
+      },
+      "4": {
+        value: '24px'
+      },
+      "5": {
+        value: '32px'
+      },
+      "6": {
+        value: '38px'
+      },
+      "7": {
+        value: '48px'
+      },
+      "8": {
+        value: '56px'
+      },
+      "9": {
+        value: '86px'
+      },
+    }
+  }
+}
